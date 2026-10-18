@@ -14,3 +14,18 @@ node_modules/
 dist/
 .env
 build/
+
+# Added by Noctifab pre-flight guardrails
+.noctifab/
+target/
+bin/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.bundle/
+*.class
+*.o
+*.so
+*.dylib
+*.log
